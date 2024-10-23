@@ -1,3 +1,4 @@
+![Preview card](./banner.png)
 # 👋 Hello! I'm Franco Zoqui
 I walk my path in web development with enthusiasm and dedication. My passion for self-improvement and my commitment to constant growth make me a motivated candidate willing to face new challenges.
 
