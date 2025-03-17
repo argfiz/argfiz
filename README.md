@@ -32,6 +32,7 @@ I can work on Frontend and Backend, but I more enjoy working with the backend. M
 ![Static Badge](https://img.shields.io/badge/Node.js-689862?style=for-the-badge&logo=node.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=%230874b8)
 ![Static Badge](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&color=%235a08ce)
+![Static Badge](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black&color=%2369D3A7)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&labelColor=black&color=%23f1563a)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black)
 
