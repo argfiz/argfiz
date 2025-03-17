@@ -5,6 +5,10 @@ I walk my path in web development with enthusiasm and dedication. My passion for
 ## 📚 Full Stack Web Developer
 I can work on Frontend and Backend, but I more enjoy working with the backend. My goal is to provide the highest possible performance applying modern technique end to end
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://argfiz.github.io/cv-francozoqui/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-zoqui-35453456/)
+
 ## 📕Tech Stack
 ### 💻 Languages
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&labelColor=black&color=%23e34e26)
