@@ -6,14 +6,15 @@ I walk my path in web development with enthusiasm and dedication. My passion for
 I can work on Frontend and Backend, but I more enjoy working with the backend because My goal is to provide the highest possible performance applying modern technique
 
 ## 📕Tech Stack
-![Static Badge](https://img.shields.io/badge/React-50d6ff?style=for-the-badge&logo=react&labelColor=black)
-![Static Badge](https://img.shields.io/badge/TypeScript-377cc8?style=for-the-badge&logo=typescript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=javascript&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Node.js-689862?style=for-the-badge&logo=node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-377cc8?style=for-the-badge&logo=typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-50d6ff?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 
+![Static Badge](https://img.shields.io/badge/Node.js-689862?style=for-the-badge&logo=node.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express-383838?style=for-the-badge&logo=express)
 ![Static Badge](https://img.shields.io/badge/Passport-3ae37e?style=for-the-badge&logo=passport&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Sequelize-1e7fbb?style=for-the-badge&logo=sequelize&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm&color=%23ea3b2b)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-376696?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔗 Links
