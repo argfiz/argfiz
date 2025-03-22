@@ -3,7 +3,7 @@
 I walk my path in web development with enthusiasm and dedication. My passion for self-improvement and my commitment to constant growth make me a motivated candidate willing to face new challenges.
 
 ## 📚 Full Stack Web Developer
-I can work on Frontend and Backend, but I more enjoy working with the backend. My goal is to provide the highest possible performance applying modern technique end to end
+I can work on Frontend and Backend. My goal is to provide the highest possible performance applying modern technique end to end
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://argfiz.github.io/cv-francozoqui/)
